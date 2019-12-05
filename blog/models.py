@@ -18,7 +18,3 @@ class Post(models.Model):
     def __str__(self):
         return self.title
 # Create your models here.
-User$ git init
-Initialized empty Git repository in ~/djangogirls/.git/
-$ git config --global user.name "Your Name"
-$ git config --global user.email you@example.com
